@@ -16,7 +16,7 @@ post '/new' do
 erb :display_puppy
 end
 
-post '/'
+post '/' do
 erb :display_puppy
 end
 
