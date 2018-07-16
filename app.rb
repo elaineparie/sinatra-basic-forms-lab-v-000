@@ -1,6 +1,6 @@
 require_relative 'config/environment'
 require_relative 'models/puppy.rb'
-
+require 'pry'
 class App < Sinatra::Base
 
   get '/' do
