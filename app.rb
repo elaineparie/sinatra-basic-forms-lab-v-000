@@ -12,7 +12,7 @@ class App < Sinatra::Base
   end
 
 post '/create_puppy.erb' do
-  
+
 end
 
 end
